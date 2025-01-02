@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262219848503",
+    "project_id": "hangapp-404fd",
+    "storage_bucket": "hangapp-404fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262219848503:android:8dfbc203b149ed6978d8b2",
+        "android_client_info": {
+          "package_name": "com.hangapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCirtfhLYEnyfGHiByEqkZv-0EWfwI2ja4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
